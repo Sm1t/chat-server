@@ -1,6 +1,6 @@
 # chat-server
 
-> A Express.js + Socket.io project
+> Express.js + Socket.io project. Nodejs v8.4.0
 
 ## Build Setup
 
